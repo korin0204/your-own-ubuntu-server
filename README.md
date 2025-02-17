@@ -1,2 +1,4 @@
 # your-own-ubuntu-server
-ubuntu server make your life more useful.
+ubuntuでファイル共有サーバーを構築してみた
+# 背景
+icloudサービスでファイル共有をしていたが、同期が遅い問題を解決するためにhttpsベースのファイル共有を行えるサーバーを構築
